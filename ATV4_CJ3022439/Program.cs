@@ -6,7 +6,6 @@ namespace ATV4_CJ3022439
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
 
             int opc;
             Console.WriteLine("Digite o exercício que deseja visualizar:");
